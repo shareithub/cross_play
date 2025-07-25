@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 after done , change API ID & API HASH in file config.json
 go to web : my.telegram.org
+
 to get API ID & API HASH
 
 After done , running bot : ```python main.py```
