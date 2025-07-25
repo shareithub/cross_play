@@ -31,7 +31,7 @@ to get API ID & API HASH
 
 After done , running bot : ```python main.py```
 
-Video tutorial >> [YOUTUBE : TUTORIAL RUNNING BOT CROSS PLAY IN WINDOWS](https://www.youtube.com/@SHAREITHUB_COM)
+Video tutorial >> [YOUTUBE : TUTORIAL RUNNING BOT CROSS PLAY IN WINDOWS](https://youtu.be/yyhYy-gSTjE)
 
 
 ## TUTORIAL IN UBUNTU :
