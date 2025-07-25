@@ -31,7 +31,7 @@ to get API ID & API HASH
 
 After done , running bot : ```python main.py```
 
-Video tutorial >> [YOUTUBE : TUTORIAL RUNNING BOT CROSS PLAY IN WINDOWS](https://youtube.com/shareithub)
+Video tutorial >> [YOUTUBE : TUTORIAL RUNNING BOT CROSS PLAY IN WINDOWS](https://www.youtube.com/@SHAREITHUB_COM)
 
 
 ## TUTORIAL IN UBUNTU :
@@ -103,7 +103,7 @@ Create API ID & API HASH go to web : my.telegram.org
 
 After done , run bot : ```python3 main.py```
 
-Video tutorial >> [YOUTUBE : TUTORIAL RUNNING BOT CROSS PLAY IN UBUNTU](https://youtube.com/shareithub)
+Video tutorial >> [YOUTUBE : TUTORIAL RUNNING BOT CROSS PLAY IN UBUNTU](https://www.youtube.com/@SHAREITHUB_COM)
 
 
 
