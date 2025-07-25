@@ -102,7 +102,7 @@ Create API ID & API HASH go to web : my.telegram.org
 
 After done , run bot : ```python3 main.py```
 
-
+Video tutorial >> [YOUTUBE : TUTORIAL RUNNING BOT CROSS PLAY IN UBUNTU](https://youtube.com)
 
 
 
